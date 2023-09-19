@@ -7,4 +7,5 @@ C:/FLUTTER_PROJECTS/noteapp/build/windows/runner/Debug/data/flutter_assets/fonts
 C:/FLUTTER_PROJECTS/noteapp/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
 C:/FLUTTER_PROJECTS/noteapp/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
 C:/FLUTTER_PROJECTS/noteapp/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/FLUTTER_PROJECTS/noteapp/build/windows/runner/Debug/data/flutter_assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf
 C:/FLUTTER_PROJECTS/noteapp/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
